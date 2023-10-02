@@ -1,4 +1,4 @@
-[![Nitin prajwal profile]('[link](https://media.tenor.com/eQ8_EOeiaZcAAAAC/games.gif)')](https://www.linkedin.com/in/nitinprajwal/)
+#[![Nitin prajwal profile]('[link](https://media.tenor.com/eQ8_EOeiaZcAAAAC/games.gif)')](https://www.linkedin.com/in/nitinprajwal/)
 
 <img align="right" alt="CODING" width="300" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 <h1 align="center">Hi 👋, I'm Nitin Prajwal R</h1>
