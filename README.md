@@ -1,6 +1,6 @@
 [![Nitin prajwal profile]('[link](https://media.tenor.com/eQ8_EOeiaZcAAAAC/games.gif)')](https://www.linkedin.com/in/nitinprajwal/)
 
-<img align="right" alt="CODING" width="400" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<img align="right" alt="CODING" width="300" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 <h1 align="center">Hi 👋, I'm Nitin Prajwal R</h1>
 <h3 align="center">Exploring the realms of AI/ML, data science, web development, and blockchain tech</h3>
 
