@@ -1,4 +1,4 @@
-<img align="right" alt="CODING" width="100" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<img align="right" alt="CODING" width="200" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 <h1 align="center">Hi 👋, I'm Nitin Prajwal R</h1>
 <h3 align="center">Exploring the realms of AI/ML, data science, web development, and blockchain tech</h3>
 
