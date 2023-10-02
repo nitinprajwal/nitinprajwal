@@ -1,6 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![Nitin prajwal profile]('link')](https://www.linkedin.com/in/nitinprajwal/)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="link">
 <h1 align="center">Hi 👋, I'm Nitin Prajwal R</h1>
 <h3 align="center">Exploring the realms of AI/ML, data science, web development, and blockchain tech</h3>
 
