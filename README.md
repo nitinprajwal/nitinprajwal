@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Prajwal R</h1>
 <h3 align="center">Exploring the realms of AI/ML, data science, web development, and blockchain tech</h3>
 
-- 📫 How to reach me **nitinprajwalr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
