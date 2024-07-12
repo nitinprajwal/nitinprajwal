@@ -17,7 +17,7 @@
   - 🌱 I'm currently learning **Advanced Machine Learning techniques**
   - 👯 I'm looking to collaborate on **innovative tech solutions**
   - 💬 Ask me about **Python, AI/ML, Web Development**
-  - 📫 How to reach me: **nitinprajwal@gmail.com**
+  - 📫 How to reach me: **nitinprajwalr@gmail.com**
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
