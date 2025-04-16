@@ -9,10 +9,15 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/nitinprajwal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
+    <a href="https://leetcode.com/nitinprajwal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+  </a>
   </a>
   <a href="https://x.com/nitinprajwalr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  
 </div>
 
 ###
@@ -36,6 +41,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/nitinprajwal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+    <a href="https://leetcode.com/nitinprajwal/" target="_blank">
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg](https://www.svgrepo.com/show/341985/leetcode.svg)" width="52" height="40" alt="leetcode logo" />
   </a>
   <a href="https://x.com/nitinprajwalr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
