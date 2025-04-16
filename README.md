@@ -18,7 +18,9 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nitinprajwal.nitinprajwal&"  />
+    <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=nitinprajwal&label=Profile%20views&color=0e75b6&style=flat" alt="nitinprajwal" />
+  </p>
 </div>
 
 ###
